@@ -1,7 +1,7 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Para isso, crie seu próprio repositório (dando um "fork" no GitHub da DIO) e aumente ainda mais seu portfólio de projetos, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
+Neste primeiro LAB e desafio iniciei com a criação de um repositório, para dar inicio ao portfólio de novos projetos 😎
 ## 🤖 Tecnologias Utilizadas
 Template e Github
 ## 🧐 Processo de Criação
@@ -18,4 +18,4 @@ Apresente os resultados do seu projeto
 https://github.com/Gnunes03/lab-natty-or-not
 
 ## 💭 Reflexão (Opcional)
-Primeiro desafio do bootcamp IA
+Primeiro desafio do CAIXA IAs Generativas
