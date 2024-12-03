@@ -14,7 +14,8 @@ Template e Github
     Efeito de Rede: Compartilhe seus resultados nas redes sociais com a hashtag #LabDIONattyOrNot
 
 ## 🚀 Resultados
-[Apresente os resultados do seu projeto
-](https://github.com/Gnunes03/lab-natty-or-not)
+Apresente os resultados do seu projeto
+https://github.com/Gnunes03/lab-natty-or-not
+
 ## 💭 Reflexão (Opcional)
 Primeiro desafio do bootcamp IA
